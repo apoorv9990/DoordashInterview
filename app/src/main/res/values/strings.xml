@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doordash</string>
+
+    <string name="discover">Discover</string>
+    
+    <string name="time_from_store_closed">Closed</string>
+    <string name="time_from_store_minutes">%s mins</string>
+
+    <string name="store_available_row_content_description">%1$s %2$s average delivery time: %3$s</string>
+    <string name="store_closed_row_content_description">%1$s %2$s currently closed</string>
+</resources>
